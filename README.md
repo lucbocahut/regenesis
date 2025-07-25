@@ -4,3 +4,7 @@ Regenesis is a living organization exploring how to grow software, ecosystems, a
 
 We believe AI is a continuation of life, not its replacement — and that building a future worth inhabiting means rethinking how we define value, how we organize ourselves, and how we care for what we grow.
 
+
+## resources
+
+https://essays.georgestrakhov.com/elvish
